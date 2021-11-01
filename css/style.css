@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(223, 126, 115);
+}
+
+.portada{
+    border: double royalblue 4px;
+}
+
+.img-portada{
+    width: 800px;
+}
+
+.tarjeta{
+    display: flex;
+}
+.barra{
+    background-color: rgb(80, 75, 75);
+}
